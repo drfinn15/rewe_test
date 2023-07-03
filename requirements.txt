@@ -1,0 +1,7 @@
+matplotlib == 3.5.*
+httpx == 0.20.0
+treelib == 1.5.*
+tqdm == 4.62.*
+pandas == 1.4.*
+plotly == 5.6.*
+jupyter == 1.0.*
